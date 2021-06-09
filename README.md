@@ -1,2 +1,2 @@
-# Testing-Miniproject
+# Software Testing Project
 Software Testing
